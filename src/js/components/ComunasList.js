@@ -1,11 +1,7 @@
-import React from 'react'
+import React from 'react';
 
 const ComunasList = () => {
-    return (
-        <>
-          
-        </>
-    )
-}
+  return <></>;
+};
 
-export default ComunasList
+export default ComunasList;

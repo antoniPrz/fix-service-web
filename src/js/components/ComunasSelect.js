@@ -1,14 +1,10 @@
-import React from 'react'
-import Select from 'react-select'
+import React from 'react';
+import Select from 'react-select';
 
-const options = <option value="Providencia">Providencia</option>
+const options = <option value='Providencia'>Providencia</option>;
 
 const ComunasSelect = () => {
-    <Select options={options} />
-}
+  <Select options={options} />;
+};
 
-export default ComunasSelect
-
-
-
-    
+export default ComunasSelect;
