@@ -15,14 +15,14 @@ boton verde hover  */
   /* font-family:roboto; */
   /* background-color: rgb(102,205,170); */
   /* background-color: rgb(204,217,204); */
-  font-family: "Poppins", sans-serif;
+  font-family: 'Poppins', sans-serif;
 }
 
-.home{
-    background-image: url("https://st2.depositphotos.com/28289130/47606/v/600/depositphotos_476066172-stock-illustration-construction-tools-background-for-work.jpg");
-    /*background-attachment: fixed; */
-    background-repeat: repeat-x;
-    background-color: rgb(204,217,204);
+.home {
+  //background-image: url("https://st2.depositphotos.com/28289130/47606/v/600/depositphotos_476066172-stock-illustration-construction-tools-background-for-work.jpg");
+  /*background-attachment: fixed; */
+  background-repeat: repeat-x;
+  background-color: rgb(204, 217, 204);
 }
 .btn-ta {
   background-color: rgb(88, 141, 88) !important;
@@ -45,7 +45,6 @@ boton verde hover  */
   background-color: #185918 !important;
 }
 
-
 .btn-ta-danger {
   background-color: #7c3235 !important;
 
@@ -54,11 +53,9 @@ boton verde hover  */
   outline: 0 none;
 }
 
-
 .btn-ta-danger:hover {
   background-color: #88171b !important;
-} 
-
+}
 
 .btn-ta-blue {
   background-color: #32707c !important;
@@ -70,18 +67,16 @@ boton verde hover  */
 
 .btn-ta-blue:hover {
   background-color: #1c7c8e !important;
-} 
+}
 
 .btn-ta-white {
-    background-color:white !important;
-    color: green !important;
-
+  background-color: white !important;
+  color: green !important;
 }
 
 .text-ta-danger {
   color: #7c3235 !important;
 }
-
 
 .bg-color {
   background-color: rgb(60, 124, 60);
@@ -90,7 +85,7 @@ boton verde hover  */
 .bg-ta-nav {
   background-color: ;
 }
-.ta-margin{
+.ta-margin {
   margin-top: 130px;
 }
 
@@ -171,14 +166,13 @@ select[type]:focus {
   background-color: rgba(204, 217, 204, 0.45);
 }
 
-.bg-jumbotron{
-    background-color: white !important;
+.bg-jumbotron {
+  background-color: white !important;
 }
 
-
-
-.bi-eye , .bi-eye-slash {
+.bi-eye,
+.bi-eye-slash {
   font-size: 25px;
   margin-left: -10px;
-  color: #aaa
+  color: #aaa;
 }
