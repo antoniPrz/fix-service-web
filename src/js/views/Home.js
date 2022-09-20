@@ -21,7 +21,7 @@ const Home = () => {
         <br />
         <br />
         <p className='lead text-justify'>
-          <strong>
+          {/* <strong>
             TeAyudo?® es un nombre ficticio que fue creado para nuestro proyecto
             de titulación. La finalidad es entregar cinco servicios domésticos
             dentro de la región metropolitana, ampliándose a 15 servicios
@@ -32,7 +32,7 @@ const Home = () => {
             habilitados son de 8:00-11:00 hrs, 11:00-14:00 hrs y 14:00-17:00
             hrs. Para los especialistas una vez registrados tendrán habilitado
             15 días corridos de prueba.
-          </strong>
+          </strong> */}
         </p>
         <p className='lead text-justify'>
           <strong>
